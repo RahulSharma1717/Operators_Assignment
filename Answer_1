@@ -1,0 +1,12 @@
+ The Output of a = 2+3-4/2**2 and also tell its type?
+
+    4 and int
+
+    4.0 and float
+
+    1.0 and float
+
+    5 and int
+
+
+  Answer: "4.0 and float"

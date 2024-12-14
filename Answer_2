@@ -1,0 +1,14 @@
+The output of the following python code snippet
+    print(type(4/2))
+     print(type(4//2))
+
+    float and float
+
+    float and int
+
+    int and float
+
+    int and int
+
+
+Answer: "float and int"

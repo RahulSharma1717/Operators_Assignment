@@ -1,0 +1,13 @@
+    What will be the precedence of
+
+                     a.    Not
+                      b.    And
+                      c.     Or
+
+a.    Abc
+b.    Bac
+c.     Bca
+d.    Cab
+
+
+Answer: "a.    Abc"

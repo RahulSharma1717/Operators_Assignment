@@ -1,0 +1,13 @@
+What will be the output of the following python code snippet
+a= 12
+print(type(a))
+a=’12345’
+print(type(a))
+
+a.    Int and str
+b.    Int and int
+c.     str and int
+d.    str and str
+
+
+Answer: "a.    Int and str"

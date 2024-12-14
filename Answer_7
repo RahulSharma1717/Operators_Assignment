@@ -1,0 +1,9 @@
+    What will be the output of the following code
+
+    print(True or True and False)
+
+a.    True
+b.    False
+
+
+Answer: "a.    True"
